@@ -18,26 +18,26 @@ Online preview address: https://lemon-music.herokuapp.com/recommend.
 
 ## Technology Stack
 
-React + React-Router + Redux + ES6 + Webpack
+```React + React-Router + Redux + ES6 + Webpack```
 
 
 ## Available Scripts
 
-### `npm install`
+#### `npm install`
 
 First, run the `npm install` to install dependence
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### `This project is for demonstration purposes only, any commercial use is prohibited.`
+#### `This project is for demonstration purposes only, any commercial use is prohibited.`
 
 ## Screenshots
 
