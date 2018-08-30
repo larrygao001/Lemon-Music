@@ -14,7 +14,7 @@
 
 This is a music webapp. Build with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Click [here](https://ambitiousbird.github.io/Lemon-Music/) for online preview. Note the app is designed for use on mobile devices, if you're viewing this on a computer, consider your screen as a touchable mobile screen.
+Click [here](https://ambitiousbird.github.io/Lemon-Music/) for online preview. Note that the app is designed for use on mobile devices, if you're viewing this on a computer, think your screen as touchable and use your cursor as a finger.
 
 ## Technology Stack
 
