@@ -14,7 +14,7 @@
 
 This is a music webapp. Build with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Online preview address: https://lemon-music.herokuapp.com/recommend.
+Click [here](https://ambitiousbird.github.io/Lemon-Music/) for online preview.
 
 ## Technology Stack
 
