@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.3.6"></a>
+## [1.3.6](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.5...istanbul-api@1.3.6) (2018-05-31)
+
+
+
+
+**Note:** Version bump only for package istanbul-api
+
+<a name="1.3.5"></a>
+## [1.3.5](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.4...istanbul-api@1.3.5) (2018-05-31)
+
+
+
+
+**Note:** Version bump only for package istanbul-api
+
+<a name="1.3.4"></a>
+## [1.3.4](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.3...istanbul-api@1.3.4) (2018-05-31)
+
+
+
+
+**Note:** Version bump only for package istanbul-api
+
+<a name="1.3.3"></a>
+## [1.3.3](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.2...istanbul-api@1.3.3) (2018-05-31)
+
+
+
+
+**Note:** Version bump only for package istanbul-api
+
+<a name="1.3.2"></a>
+## [1.3.2](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.1...istanbul-api@1.3.2) (2018-04-17)
+
+
+
+
+**Note:** Version bump only for package istanbul-api
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/istanbuljs/istanbuljs/compare/istanbul-api@1.3.0...istanbul-api@1.3.1) (2018-03-09)
 

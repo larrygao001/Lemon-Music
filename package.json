@@ -4,15 +4,19 @@
   "description": "Mango Music",
   "author": "mcx",
   "private": true,
+  "homepage": "https://ambitiousbird.github.io/Lemon-Music/",
   "scripts": {
     "start": "node scripts/customized-build start",
     "build": "node scripts/customized-build build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "dependencies": {
     "ajv": "^6.5.2",
     "better-scroll": "^1.6.0",
+    "gh-pages": "^1.2.0",
     "jsonp": "^0.2.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
@@ -21,7 +25,7 @@
     "react-native-cli": "^2.0.1",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "^1.1.4",
+    "react-scripts": "^1.1.5",
     "react-transition-group": "^2.2.1",
     "redux": "^3.7.2",
     "swiper": "^3.4.2"
