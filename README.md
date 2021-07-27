@@ -63,5 +63,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Acknowledgement
 
-The project is completed under the instructions given in the tutorial provided by https://juejin.im/user/5a35207c5188252bca04f07d/posts.
+The project is completed under the instructions provided by [code_mcx](https://juejin.im/user/5a35207c5188252bca04f07d/posts.)
 
